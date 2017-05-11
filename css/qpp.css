@@ -1,0 +1,9 @@
+.qpp_payment_plan td{
+    text-align: left !important;
+}
+.qpp_payment_plan td.product-total{
+    min-width: 120px;
+}
+.qpp_payment_plan td.product-total input{
+    margin-right: 5px;
+}
